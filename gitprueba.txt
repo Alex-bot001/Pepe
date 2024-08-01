@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Estoy en camino de aprender a utilizar Git
+=======
+Estoy en camino de aprender a utilizar Git y GitHub
+>>>>>>> test
+Estoy empezando a entender Git!
